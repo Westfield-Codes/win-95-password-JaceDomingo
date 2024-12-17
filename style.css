@@ -76,6 +76,7 @@ body {
   width:100px;
   margin-top:-25px;
   margin-right:5px;
+  border:1px solid magenta;
 }
 
 #buttons button {
